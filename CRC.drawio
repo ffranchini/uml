@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T22:46:21.088Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="32ioo1zJd7qiSWftgX5F" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T22:53:18.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="RwbkA1i6lpLK228ctvug" version="24.5.4" type="github">
   <diagram name="Página-1" id="KN-7Ntw3eemW49qnZTDz">
     <mxGraphModel dx="2283" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -12,6 +12,14 @@
             <mxPoint x="-380" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tpDxhP_KRYRFs_A_IT78-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-280" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tpDxhP_KRYRFs_A_IT78-10" target="tpDxhP_KRYRFs_A_IT78-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tpDxhP_KRYRFs_A_IT78-10" value="" style="shape=mxgraph.cisco.misc.access_point;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-420" y="730" width="75" height="34" as="geometry" />
         </mxCell>
@@ -21,8 +29,13 @@
         <mxCell id="tpDxhP_KRYRFs_A_IT78-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.985;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tpDxhP_KRYRFs_A_IT78-11" target="tpDxhP_KRYRFs_A_IT78-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tpDxhP_KRYRFs_A_IT78-11" target="tpDxhP_KRYRFs_A_IT78-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tpDxhP_KRYRFs_A_IT78-11" value="" style="shape=mxgraph.cisco.misc.access_point;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-37.5" y="730" width="75" height="34" as="geometry" />
+          <mxGeometry x="-37.5" y="720" width="75" height="34" as="geometry" />
         </mxCell>
         <mxCell id="tpDxhP_KRYRFs_A_IT78-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tpDxhP_KRYRFs_A_IT78-12" target="tpDxhP_KRYRFs_A_IT78-10">
           <mxGeometry relative="1" as="geometry" />
@@ -69,10 +82,10 @@
           <mxGeometry x="-390" y="478" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tpDxhP_KRYRFs_A_IT78-33" value="Acess Point A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-450" y="680" width="100" height="30" as="geometry" />
+          <mxGeometry x="-490" y="680" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tpDxhP_KRYRFs_A_IT78-34" value="Acess Point B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="670" width="100" height="30" as="geometry" />
+          <mxGeometry x="-110" y="670" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tpDxhP_KRYRFs_A_IT78-35" value="" style="shape=mxgraph.cisco.computers_and_peripherals.laptop;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-550" y="900" width="90" height="61" as="geometry" />
@@ -81,13 +94,10 @@
           <mxGeometry x="-440" y="961" width="90" height="61" as="geometry" />
         </mxCell>
         <mxCell id="tpDxhP_KRYRFs_A_IT78-37" value="" style="shape=mxgraph.cisco.modems_and_phones.cell_phone;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-274" y="903" width="34" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="tpDxhP_KRYRFs_A_IT78-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tpDxhP_KRYRFs_A_IT78-10" target="tpDxhP_KRYRFs_A_IT78-37">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-240" y="854" width="34" height="58" as="geometry" />
         </mxCell>
         <mxCell id="tpDxhP_KRYRFs_A_IT78-41" value="" style="shape=mxgraph.cisco.modems_and_phones.cell_phone;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="112" y="883" width="34" height="58" as="geometry" />
+          <mxGeometry x="228" y="890" width="34" height="58" as="geometry" />
         </mxCell>
         <mxCell id="tpDxhP_KRYRFs_A_IT78-42" value="" style="shape=mxgraph.cisco.computers_and_peripherals.laptop;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-45" y="950" width="90" height="61" as="geometry" />
@@ -96,7 +106,12 @@
           <mxGeometry x="-170" y="880" width="90" height="61" as="geometry" />
         </mxCell>
         <mxCell id="tpDxhP_KRYRFs_A_IT78-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tpDxhP_KRYRFs_A_IT78-11" target="tpDxhP_KRYRFs_A_IT78-41">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="747" />
+              <mxPoint x="210" y="883" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="tpDxhP_KRYRFs_A_IT78-47" value="" style="shape=mxgraph.cisco.computers_and_peripherals.pc;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="640" width="78" height="70" as="geometry" />
@@ -121,6 +136,45 @@
         </mxCell>
         <mxCell id="tpDxhP_KRYRFs_A_IT78-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.352;entryY=0.176;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tpDxhP_KRYRFs_A_IT78-13" target="tpDxhP_KRYRFs_A_IT78-48">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-58" value="Notebook" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="860" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-59" value="Notebook" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="931" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-60" value="Notebook" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="920" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-61" value="Notebook" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="850" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-62" value="Celular" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-219" y="840" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-63" value="Celular" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="918" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-64" value="PC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="618" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-65" value="PC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="590" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-66" value="Impressora" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="670" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-68" value="" style="shape=mxgraph.cisco.computers_and_peripherals.printer;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="112.5" y="961" width="91" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-69" value="Impressora&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="995" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-70" value="" style="shape=mxgraph.cisco.computers_and_peripherals.printer;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="963.5" width="91" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-73" value="Impressora" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="1000" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
