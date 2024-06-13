@@ -1,9 +1,127 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T22:14:38.544Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.4.14" etag="-bR90N6GC4XOH9rmbYqb" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T22:43:11.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="F5ilWwtWrHw6VaueqMVZ" version="24.5.4" type="github">
   <diagram name="Página-1" id="KN-7Ntw3eemW49qnZTDz">
-    <mxGraphModel>
+    <mxGraphModel dx="1941" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tpDxhP_KRYRFs_A_IT78-10" target="tpDxhP_KRYRFs_A_IT78-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.985;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tpDxhP_KRYRFs_A_IT78-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-380" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-10" value="" style="shape=mxgraph.cisco.misc.access_point;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="730" width="75" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tpDxhP_KRYRFs_A_IT78-11" target="tpDxhP_KRYRFs_A_IT78-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.985;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tpDxhP_KRYRFs_A_IT78-11" target="tpDxhP_KRYRFs_A_IT78-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-11" value="" style="shape=mxgraph.cisco.misc.access_point;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-37.5" y="730" width="75" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tpDxhP_KRYRFs_A_IT78-12" target="tpDxhP_KRYRFs_A_IT78-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.99;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tpDxhP_KRYRFs_A_IT78-12" target="tpDxhP_KRYRFs_A_IT78-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-12" value="" style="shape=mxgraph.cisco.hubs_and_gateways.small_hub;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="513" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-13" value="" style="shape=mxgraph.cisco.hubs_and_gateways.small_hub;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="510" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tpDxhP_KRYRFs_A_IT78-21" target="tpDxhP_KRYRFs_A_IT78-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-21" value="" style="shape=mxgraph.cisco.routers.router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="290" width="78" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tpDxhP_KRYRFs_A_IT78-21" target="tpDxhP_KRYRFs_A_IT78-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tpDxhP_KRYRFs_A_IT78-25" target="tpDxhP_KRYRFs_A_IT78-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-25" value="" style="shape=mxgraph.cisco.modems_and_phones.modem;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="91" y="170" width="77" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-28" value="&lt;h2&gt;INTERNET&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="10" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-29" value="Modem Operadora" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="174.5" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-30" value="Router" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="25" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-31" value="Switch 16 portas Gigabit&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="339" y="473" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-32" value="Switch 16 portas Gigabit/PoE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-432.5" y="443" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-33" value="Acess Point A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="680" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-34" value="Acess Point B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="670" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-35" value="" style="shape=mxgraph.cisco.computers_and_peripherals.laptop;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="900" width="90" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-36" value="" style="shape=mxgraph.cisco.computers_and_peripherals.laptop;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="961" width="90" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-37" value="" style="shape=mxgraph.cisco.modems_and_phones.cell_phone;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-274" y="903" width="34" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tpDxhP_KRYRFs_A_IT78-10" target="tpDxhP_KRYRFs_A_IT78-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-41" value="" style="shape=mxgraph.cisco.modems_and_phones.cell_phone;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="112" y="883" width="34" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-42" value="" style="shape=mxgraph.cisco.computers_and_peripherals.laptop;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="950" width="90" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-43" value="" style="shape=mxgraph.cisco.computers_and_peripherals.laptop;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="880" width="90" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tpDxhP_KRYRFs_A_IT78-11" target="tpDxhP_KRYRFs_A_IT78-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-47" value="" style="shape=mxgraph.cisco.computers_and_peripherals.pc;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="640" width="78" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-49" value="" style="shape=mxgraph.cisco.storage.cloud;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="61" y="10" width="137" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tpDxhP_KRYRFs_A_IT78-49" target="tpDxhP_KRYRFs_A_IT78-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tpDxhP_KRYRFs_A_IT78-13" target="tpDxhP_KRYRFs_A_IT78-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-48" value="" style="shape=mxgraph.cisco.computers_and_peripherals.printer;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="710" width="91" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-55" value="" style="shape=mxgraph.cisco.computers_and_peripherals.pc;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="620" width="78" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.99;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tpDxhP_KRYRFs_A_IT78-13" target="tpDxhP_KRYRFs_A_IT78-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tpDxhP_KRYRFs_A_IT78-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.352;entryY=0.176;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tpDxhP_KRYRFs_A_IT78-13" target="tpDxhP_KRYRFs_A_IT78-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
